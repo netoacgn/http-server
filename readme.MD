@@ -10,12 +10,14 @@ Ele é capaz de escutar as portas do servidor e dar uma resposta ao cliente
 
 # Instalando e usando o sistema
 
-1º) Clonar o repositório do github: git clone https://github.com/netoacgn/http-server.git
+1º) Clonar o repositório do github:<br>
+    git clone https://github.com/netoacgn/http-server.git
 
-2º) Instalar as dependências: npm install
+2º) Instalar as dependências:<br>
+    npm install
 
-3º) Iniciar o server com o NodeJS
-node index.js
+3º) Iniciar o server com o NodeJS<br>
+    node index.js
 
-4º) Acessar via navegador o servidor com o localhost na porta 3000
-http://localhost:3000/index.html
+4º) Acessar via navegador o servidor com o localhost na porta 3000<br>
+    http://localhost:3000/index.html
